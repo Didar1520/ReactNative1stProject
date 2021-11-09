@@ -1,0 +1,2 @@
+# ReactNative1stProject
+someApp
